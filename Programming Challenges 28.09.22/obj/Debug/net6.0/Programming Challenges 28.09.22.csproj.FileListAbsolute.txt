@@ -1,0 +1,15 @@
+D:\Programming Challenges\Programming Challenges 28.09.22\bin\Debug\net6.0\Programming Challenges 28.09.22.exe
+D:\Programming Challenges\Programming Challenges 28.09.22\bin\Debug\net6.0\Programming Challenges 28.09.22.deps.json
+D:\Programming Challenges\Programming Challenges 28.09.22\bin\Debug\net6.0\Programming Challenges 28.09.22.runtimeconfig.json
+D:\Programming Challenges\Programming Challenges 28.09.22\bin\Debug\net6.0\Programming Challenges 28.09.22.dll
+D:\Programming Challenges\Programming Challenges 28.09.22\bin\Debug\net6.0\Programming Challenges 28.09.22.pdb
+D:\Programming Challenges\Programming Challenges 28.09.22\obj\Debug\net6.0\Programming Challenges 28.09.22.csproj.AssemblyReference.cache
+D:\Programming Challenges\Programming Challenges 28.09.22\obj\Debug\net6.0\Programming Challenges 28.09.22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Challenges\Programming Challenges 28.09.22\obj\Debug\net6.0\Programming Challenges 28.09.22.AssemblyInfoInputs.cache
+D:\Programming Challenges\Programming Challenges 28.09.22\obj\Debug\net6.0\Programming Challenges 28.09.22.AssemblyInfo.cs
+D:\Programming Challenges\Programming Challenges 28.09.22\obj\Debug\net6.0\Programming Challenges 28.09.22.csproj.CoreCompileInputs.cache
+D:\Programming Challenges\Programming Challenges 28.09.22\obj\Debug\net6.0\Programming Challenges 28.09.22.dll
+D:\Programming Challenges\Programming Challenges 28.09.22\obj\Debug\net6.0\refint\Programming Challenges 28.09.22.dll
+D:\Programming Challenges\Programming Challenges 28.09.22\obj\Debug\net6.0\Programming Challenges 28.09.22.pdb
+D:\Programming Challenges\Programming Challenges 28.09.22\obj\Debug\net6.0\Programming Challenges 28.09.22.genruntimeconfig.cache
+D:\Programming Challenges\Programming Challenges 28.09.22\obj\Debug\net6.0\ref\Programming Challenges 28.09.22.dll
