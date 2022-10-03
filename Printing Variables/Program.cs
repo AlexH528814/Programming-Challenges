@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Program
 {
@@ -6,12 +7,7 @@ class Program
     {
         string hello;
 
-        void Hello()
-        {
-            hello = "hello";
-        }
-
-        Hello();
+        hello = "Hello World";
 
         Console.WriteLine(hello);
 
@@ -28,7 +24,15 @@ class Program
         string f = "word";
 
         //multiple numbers
-        int[] myNumbers = {1, 2, 3, 4, 5};
-        Console.WriteLine(myNumbers);
+        List<int> list = new List<int>();
+        list.Add(1);
+        list.Add(2);
+        list.Add(3);
+        list.Add(4);
+
+        foreach (int i in list)
+        {
+            Console.WriteLine(i);
+        }
     }
 }
