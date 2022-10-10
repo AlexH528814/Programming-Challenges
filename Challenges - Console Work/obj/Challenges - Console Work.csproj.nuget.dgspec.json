@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming Challenges\\Challenges - Console Work\\Challenges - Console Work.csproj": {}
+    "C:\\Users\\alexh\\OneDrive\\Desktop\\Repos\\repo2 github desktop\\Programming-Challenges\\Challenges - Console Work\\Challenges - Console Work.csproj": {}
   },
   "projects": {
-    "D:\\Programming Challenges\\Challenges - Console Work\\Challenges - Console Work.csproj": {
+    "C:\\Users\\alexh\\OneDrive\\Desktop\\Repos\\repo2 github desktop\\Programming-Challenges\\Challenges - Console Work\\Challenges - Console Work.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming Challenges\\Challenges - Console Work\\Challenges - Console Work.csproj",
+        "projectUniqueName": "C:\\Users\\alexh\\OneDrive\\Desktop\\Repos\\repo2 github desktop\\Programming-Challenges\\Challenges - Console Work\\Challenges - Console Work.csproj",
         "projectName": "Challenges - Console Work",
-        "projectPath": "D:\\Programming Challenges\\Challenges - Console Work\\Challenges - Console Work.csproj",
-        "packagesPath": "C:\\Users\\528814\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming Challenges\\Challenges - Console Work\\obj\\",
+        "projectPath": "C:\\Users\\alexh\\OneDrive\\Desktop\\Repos\\repo2 github desktop\\Programming-Challenges\\Challenges - Console Work\\Challenges - Console Work.csproj",
+        "packagesPath": "C:\\Users\\alexh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexh\\OneDrive\\Desktop\\Repos\\repo2 github desktop\\Programming-Challenges\\Challenges - Console Work\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\528814\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

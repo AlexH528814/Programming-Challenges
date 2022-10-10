@@ -13,3 +13,18 @@ D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\refint\Chal
 D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.pdb
 D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.genruntimeconfig.cache
 D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\ref\Challenges - Console Work.dll
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\bin\Debug\net6.0\Challenges - Console Work.exe
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\bin\Debug\net6.0\Challenges - Console Work.deps.json
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\bin\Debug\net6.0\Challenges - Console Work.runtimeconfig.json
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\bin\Debug\net6.0\Challenges - Console Work.dll
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\bin\Debug\net6.0\Challenges - Console Work.pdb
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.csproj.AssemblyReference.cache
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.AssemblyInfoInputs.cache
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.AssemblyInfo.cs
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.csproj.CoreCompileInputs.cache
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.dll
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\obj\Debug\net6.0\refint\Challenges - Console Work.dll
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.pdb
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.genruntimeconfig.cache
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\Challenges - Console Work\obj\Debug\net6.0\ref\Challenges - Console Work.dll
