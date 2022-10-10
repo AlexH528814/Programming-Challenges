@@ -1,0 +1,15 @@
+D:\Programming Challenges\Adding2Numbers\bin\Debug\net6.0\Adding2Numbers.exe
+D:\Programming Challenges\Adding2Numbers\bin\Debug\net6.0\Adding2Numbers.deps.json
+D:\Programming Challenges\Adding2Numbers\bin\Debug\net6.0\Adding2Numbers.runtimeconfig.json
+D:\Programming Challenges\Adding2Numbers\bin\Debug\net6.0\Adding2Numbers.dll
+D:\Programming Challenges\Adding2Numbers\bin\Debug\net6.0\Adding2Numbers.pdb
+D:\Programming Challenges\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.csproj.AssemblyReference.cache
+D:\Programming Challenges\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Challenges\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.AssemblyInfoInputs.cache
+D:\Programming Challenges\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.AssemblyInfo.cs
+D:\Programming Challenges\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.csproj.CoreCompileInputs.cache
+D:\Programming Challenges\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.dll
+D:\Programming Challenges\Adding2Numbers\obj\Debug\net6.0\refint\Adding2Numbers.dll
+D:\Programming Challenges\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.pdb
+D:\Programming Challenges\Adding2Numbers\obj\Debug\net6.0\Adding2Numbers.genruntimeconfig.cache
+D:\Programming Challenges\Adding2Numbers\obj\Debug\net6.0\ref\Adding2Numbers.dll

@@ -1,0 +1,15 @@
+D:\Programming Challenges\Challenges - Console Work\bin\Debug\net6.0\Challenges - Console Work.exe
+D:\Programming Challenges\Challenges - Console Work\bin\Debug\net6.0\Challenges - Console Work.deps.json
+D:\Programming Challenges\Challenges - Console Work\bin\Debug\net6.0\Challenges - Console Work.runtimeconfig.json
+D:\Programming Challenges\Challenges - Console Work\bin\Debug\net6.0\Challenges - Console Work.dll
+D:\Programming Challenges\Challenges - Console Work\bin\Debug\net6.0\Challenges - Console Work.pdb
+D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.csproj.AssemblyReference.cache
+D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.AssemblyInfoInputs.cache
+D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.AssemblyInfo.cs
+D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.csproj.CoreCompileInputs.cache
+D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.dll
+D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\refint\Challenges - Console Work.dll
+D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.pdb
+D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\Challenges - Console Work.genruntimeconfig.cache
+D:\Programming Challenges\Challenges - Console Work\obj\Debug\net6.0\ref\Challenges - Console Work.dll
