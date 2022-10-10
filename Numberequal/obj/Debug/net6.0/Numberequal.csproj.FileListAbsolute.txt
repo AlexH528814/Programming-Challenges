@@ -1,0 +1,15 @@
+D:\Programming Challenges\Numberequal\bin\Debug\net6.0\Numberequal.exe
+D:\Programming Challenges\Numberequal\bin\Debug\net6.0\Numberequal.deps.json
+D:\Programming Challenges\Numberequal\bin\Debug\net6.0\Numberequal.runtimeconfig.json
+D:\Programming Challenges\Numberequal\bin\Debug\net6.0\Numberequal.dll
+D:\Programming Challenges\Numberequal\bin\Debug\net6.0\Numberequal.pdb
+D:\Programming Challenges\Numberequal\obj\Debug\net6.0\Numberequal.csproj.AssemblyReference.cache
+D:\Programming Challenges\Numberequal\obj\Debug\net6.0\Numberequal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Challenges\Numberequal\obj\Debug\net6.0\Numberequal.AssemblyInfoInputs.cache
+D:\Programming Challenges\Numberequal\obj\Debug\net6.0\Numberequal.AssemblyInfo.cs
+D:\Programming Challenges\Numberequal\obj\Debug\net6.0\Numberequal.csproj.CoreCompileInputs.cache
+D:\Programming Challenges\Numberequal\obj\Debug\net6.0\Numberequal.dll
+D:\Programming Challenges\Numberequal\obj\Debug\net6.0\refint\Numberequal.dll
+D:\Programming Challenges\Numberequal\obj\Debug\net6.0\Numberequal.pdb
+D:\Programming Challenges\Numberequal\obj\Debug\net6.0\Numberequal.genruntimeconfig.cache
+D:\Programming Challenges\Numberequal\obj\Debug\net6.0\ref\Numberequal.dll
