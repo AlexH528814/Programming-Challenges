@@ -12,7 +12,7 @@ class Program
         NameList.Add("Kipper");
         NameList.Add("Hans");
         NameList.Add("Super");
-        NameList.Add("L");
+        
        
 
 
