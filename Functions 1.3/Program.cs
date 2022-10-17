@@ -11,15 +11,15 @@ class Program
 
 
     }
-    public static void totalint(int f, int g, int h, int j)
+    public static void totalint(in int f, in int g, in int h, in int j)
     {
         int total = f + g + h + j;
         Console.WriteLine(total);
 
-        evenbig(total);
+        evenbig(ref total);
     }
 
-    public static void evenbig(int i)
+    public static void evenbig(ref int i)
     {
         bool bignum;
 
