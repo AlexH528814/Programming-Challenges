@@ -1,0 +1,15 @@
+D:\Programming Challenges\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.exe
+D:\Programming Challenges\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.deps.json
+D:\Programming Challenges\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.runtimeconfig.json
+D:\Programming Challenges\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.dll
+D:\Programming Challenges\EvenOrOdd\bin\Debug\net6.0\EvenOrOdd.pdb
+D:\Programming Challenges\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.AssemblyReference.cache
+D:\Programming Challenges\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Challenges\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfoInputs.cache
+D:\Programming Challenges\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.AssemblyInfo.cs
+D:\Programming Challenges\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.csproj.CoreCompileInputs.cache
+D:\Programming Challenges\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.dll
+D:\Programming Challenges\EvenOrOdd\obj\Debug\net6.0\refint\EvenOrOdd.dll
+D:\Programming Challenges\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.pdb
+D:\Programming Challenges\EvenOrOdd\obj\Debug\net6.0\EvenOrOdd.genruntimeconfig.cache
+D:\Programming Challenges\EvenOrOdd\obj\Debug\net6.0\ref\EvenOrOdd.dll

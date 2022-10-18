@@ -1,0 +1,15 @@
+D:\Programming Challenges\CubeNumber\bin\Debug\net6.0\CubeNumber.exe
+D:\Programming Challenges\CubeNumber\bin\Debug\net6.0\CubeNumber.deps.json
+D:\Programming Challenges\CubeNumber\bin\Debug\net6.0\CubeNumber.runtimeconfig.json
+D:\Programming Challenges\CubeNumber\bin\Debug\net6.0\CubeNumber.dll
+D:\Programming Challenges\CubeNumber\bin\Debug\net6.0\CubeNumber.pdb
+D:\Programming Challenges\CubeNumber\obj\Debug\net6.0\CubeNumber.csproj.AssemblyReference.cache
+D:\Programming Challenges\CubeNumber\obj\Debug\net6.0\CubeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Challenges\CubeNumber\obj\Debug\net6.0\CubeNumber.AssemblyInfoInputs.cache
+D:\Programming Challenges\CubeNumber\obj\Debug\net6.0\CubeNumber.AssemblyInfo.cs
+D:\Programming Challenges\CubeNumber\obj\Debug\net6.0\CubeNumber.csproj.CoreCompileInputs.cache
+D:\Programming Challenges\CubeNumber\obj\Debug\net6.0\CubeNumber.dll
+D:\Programming Challenges\CubeNumber\obj\Debug\net6.0\refint\CubeNumber.dll
+D:\Programming Challenges\CubeNumber\obj\Debug\net6.0\CubeNumber.pdb
+D:\Programming Challenges\CubeNumber\obj\Debug\net6.0\CubeNumber.genruntimeconfig.cache
+D:\Programming Challenges\CubeNumber\obj\Debug\net6.0\ref\CubeNumber.dll
