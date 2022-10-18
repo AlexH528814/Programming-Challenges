@@ -1,0 +1,15 @@
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\bin\Debug\net6.0\SphereVolumeSurfaceArea.exe
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\bin\Debug\net6.0\SphereVolumeSurfaceArea.deps.json
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\bin\Debug\net6.0\SphereVolumeSurfaceArea.runtimeconfig.json
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\bin\Debug\net6.0\SphereVolumeSurfaceArea.dll
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\bin\Debug\net6.0\SphereVolumeSurfaceArea.pdb
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\obj\Debug\net6.0\SphereVolumeSurfaceArea.csproj.AssemblyReference.cache
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\obj\Debug\net6.0\SphereVolumeSurfaceArea.GeneratedMSBuildEditorConfig.editorconfig
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\obj\Debug\net6.0\SphereVolumeSurfaceArea.AssemblyInfoInputs.cache
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\obj\Debug\net6.0\SphereVolumeSurfaceArea.AssemblyInfo.cs
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\obj\Debug\net6.0\SphereVolumeSurfaceArea.csproj.CoreCompileInputs.cache
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\obj\Debug\net6.0\SphereVolumeSurfaceArea.dll
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\obj\Debug\net6.0\refint\SphereVolumeSurfaceArea.dll
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\obj\Debug\net6.0\SphereVolumeSurfaceArea.pdb
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\obj\Debug\net6.0\SphereVolumeSurfaceArea.genruntimeconfig.cache
+D:\528814\Programming-Challenges\SphereVolumeSurfaceArea\obj\Debug\net6.0\ref\SphereVolumeSurfaceArea.dll
