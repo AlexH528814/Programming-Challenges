@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Starter Challenges 19.10.22/1.0.0": {
+        "runtime": {
+          "Starter Challenges 19.10.22.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Starter Challenges 19.10.22/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
