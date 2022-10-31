@@ -1,51 +1,55 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Program
 {
     public static void Main()
     {
-        int numofinvalids = 0;
-        List<string> NameList = new List<string>();
 
-        NameList.Add("Biff");
-        NameList.Add("Chip");
-        NameList.Add("Kipper");
-        NameList.Add("Hans");
-        NameList.Add("Super");
-        
-       
+        funcylisty();
 
-
-        Console.WriteLine("Number of numbers in list is " + NameList.Count);
-
-        for (int i = 0; i <= NameList.Count; i++)
+    }
+    static void funcylisty()
+    {
+        List<string> AgeList = new List<string>();
+        //adding the names
+        AgeList.Add("Biff");
+        AgeList.Add("Chips");
+        AgeList.Add("Hans");
+        AgeList.Add("Kipper");
+        AgeList.Add("Super");
+        int invalids = 0;
+        //going through 5 times, 5 names in the list
+        for (int i = 0; i < AgeList.Count; i++)
         {
-            string curname = (NameList.ElementAt(i));
+            //wait 1 secvond
+            Thread.Sleep(1000);
+            //this is the string at the position its at
+            string name = AgeList.ElementAt(i);
             int letters = 0;
-            letters = curname.Length;
+            //letter count in a word
+            foreach (char c in name)
+            {
+                if (char.IsLetter(c))
+                {
+                    letters++;
 
-
-
+                }
+            }
+            //for letter in the name
             if (letters > 4)
             {
+                //if its greater than 4
                 Console.WriteLine("Invalid");
-                NameList.RemoveAt(i);
-                numofinvalids++;
+                invalids++;
+                // AgeList.Remove(AgeList.ElementAt(i));
             }
-
-            else
+            else if (letters <= 4)
+            //less than 4
             {
-                Console.WriteLine((NameList.ElementAt(i)));
+                Console.WriteLine(name);
             }
-
-
         }
-
-       
-
-        Console.WriteLine(NameList.Count);
-
-
-
+        Console.WriteLine($"THERE ARE {invalids} INVALIDS");
     }
 }
