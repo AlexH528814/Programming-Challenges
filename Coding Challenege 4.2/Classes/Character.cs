@@ -2,25 +2,17 @@
 
 public class Character
 {
-    string characterName;
-    int maxHP;
-    bool IsPlayer;
+    public string characterName;
+    public int maxHP;
+    public bool IsPlayer;
 
-    public Character(string _characterName, int _maxHP, bool _IsPlayer)
+
+    public static void Attack(Character Player, Character Enemy)
     {
-        characterName = _characterName;
-        maxHP = _maxHP;
-        IsPlayer = _IsPlayer;
-    }
-
-    public void Attack(Character Player)
-    {
-
-
         Console.WriteLine("Attacking enemy");
 
 
-        while (Player.maxHP > 0)
+        while (Player.maxHP > 0 && Enemy.maxHP > 0)
         {
             Random random = new Random();
             int damage = random.Next(1, 3);
@@ -32,8 +24,8 @@ public class Character
             {
                 case ConsoleKey.Spacebar:
 
-                    Player.maxHP -= damage;
-                    Console.WriteLine($"The enemy lost {damage} hp, it now has {Player.maxHP}");
+                    Enemy.maxHP -= damage;
+                    Console.WriteLine($"The enemy lost {damage} hp, it now has {Enemy.maxHP}");
 
                     Console.WriteLine("The enemy was unable to deal any damage to you");
                     Console.WriteLine("");

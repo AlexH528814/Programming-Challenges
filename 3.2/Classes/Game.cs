@@ -2,19 +2,17 @@
 
 public class Game
 {
-    public static void Start()
+    public void Start()
     {
 
 
-        Character Player = new Character();
-        Player.IsPlayer = true;
-        Player.characterName = Console.ReadLine();
-        Player.maxHP = 100;
+        Character Player = new Character(Console.ReadLine(), 3, true);
+        
 
-        Character Enemy = new Character();
-        Enemy.IsPlayer = false;
-        Enemy.maxHP = 15;
+        Character Enemy = new Character("Luka", 2, false);
+        
 
-        Character.Attack(Player, Enemy);
+
+        Player.Attack(Player);
     }
 }

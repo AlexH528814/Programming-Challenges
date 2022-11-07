@@ -10,7 +10,9 @@ class Program
 {
     static void Main()
     {
-        Game.Start();
+        Game game = new Game();
+
+        game.Start();
         Environment.Exit(0);
     }
 }
