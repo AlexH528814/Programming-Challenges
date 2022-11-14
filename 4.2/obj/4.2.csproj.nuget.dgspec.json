@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\528814\\Programming-Challenges\\Challenge 5\\Challenge 5.csproj": {}
+    "D:\\528814\\Programming-Challenges\\4.2\\4.2.csproj": {}
   },
   "projects": {
-    "D:\\528814\\Programming-Challenges\\Challenge 5\\Challenge 5.csproj": {
+    "D:\\528814\\Programming-Challenges\\4.2\\4.2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\528814\\Programming-Challenges\\Challenge 5\\Challenge 5.csproj",
-        "projectName": "Challenge 5",
-        "projectPath": "D:\\528814\\Programming-Challenges\\Challenge 5\\Challenge 5.csproj",
+        "projectUniqueName": "D:\\528814\\Programming-Challenges\\4.2\\4.2.csproj",
+        "projectName": "4.2",
+        "projectPath": "D:\\528814\\Programming-Challenges\\4.2\\4.2.csproj",
         "packagesPath": "C:\\Users\\528814\\.nuget\\packages\\",
-        "outputPath": "D:\\528814\\Programming-Challenges\\Challenge 5\\obj\\",
+        "outputPath": "D:\\528814\\Programming-Challenges\\4.2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

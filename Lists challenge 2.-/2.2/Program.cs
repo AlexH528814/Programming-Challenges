@@ -23,12 +23,12 @@ class Program
             int letters = 0;
             letters = curname.Length;
 
-            if (letters > 4)
+            if (letters != 4)
             {
                 Console.WriteLine("Invalid");
                 numofinvalids++;
             }
-            else if (letters >= 4)
+            else
             {
                 Console.WriteLine(curname);
             }
