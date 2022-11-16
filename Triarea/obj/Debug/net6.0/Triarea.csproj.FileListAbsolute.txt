@@ -1,0 +1,15 @@
+D:\528814\Programming-Challenges\Triarea\bin\Debug\net6.0\Triarea.exe
+D:\528814\Programming-Challenges\Triarea\bin\Debug\net6.0\Triarea.deps.json
+D:\528814\Programming-Challenges\Triarea\bin\Debug\net6.0\Triarea.runtimeconfig.json
+D:\528814\Programming-Challenges\Triarea\bin\Debug\net6.0\Triarea.dll
+D:\528814\Programming-Challenges\Triarea\bin\Debug\net6.0\Triarea.pdb
+D:\528814\Programming-Challenges\Triarea\obj\Debug\net6.0\Triarea.csproj.AssemblyReference.cache
+D:\528814\Programming-Challenges\Triarea\obj\Debug\net6.0\Triarea.GeneratedMSBuildEditorConfig.editorconfig
+D:\528814\Programming-Challenges\Triarea\obj\Debug\net6.0\Triarea.AssemblyInfoInputs.cache
+D:\528814\Programming-Challenges\Triarea\obj\Debug\net6.0\Triarea.AssemblyInfo.cs
+D:\528814\Programming-Challenges\Triarea\obj\Debug\net6.0\Triarea.csproj.CoreCompileInputs.cache
+D:\528814\Programming-Challenges\Triarea\obj\Debug\net6.0\Triarea.dll
+D:\528814\Programming-Challenges\Triarea\obj\Debug\net6.0\refint\Triarea.dll
+D:\528814\Programming-Challenges\Triarea\obj\Debug\net6.0\Triarea.pdb
+D:\528814\Programming-Challenges\Triarea\obj\Debug\net6.0\Triarea.genruntimeconfig.cache
+D:\528814\Programming-Challenges\Triarea\obj\Debug\net6.0\ref\Triarea.dll

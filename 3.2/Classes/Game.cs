@@ -13,6 +13,7 @@ public class Game
         
 
 
-        Player.Attack(Player);
+        Player.Attack(Enemy);
+        Enemy.Attack(Player);
     }
 }

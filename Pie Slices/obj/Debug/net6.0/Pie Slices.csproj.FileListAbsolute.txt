@@ -1,0 +1,15 @@
+D:\528814\Programming-Challenges\Pie Slices\bin\Debug\net6.0\Pie Slices.exe
+D:\528814\Programming-Challenges\Pie Slices\bin\Debug\net6.0\Pie Slices.deps.json
+D:\528814\Programming-Challenges\Pie Slices\bin\Debug\net6.0\Pie Slices.runtimeconfig.json
+D:\528814\Programming-Challenges\Pie Slices\bin\Debug\net6.0\Pie Slices.dll
+D:\528814\Programming-Challenges\Pie Slices\bin\Debug\net6.0\Pie Slices.pdb
+D:\528814\Programming-Challenges\Pie Slices\obj\Debug\net6.0\Pie Slices.csproj.AssemblyReference.cache
+D:\528814\Programming-Challenges\Pie Slices\obj\Debug\net6.0\Pie Slices.GeneratedMSBuildEditorConfig.editorconfig
+D:\528814\Programming-Challenges\Pie Slices\obj\Debug\net6.0\Pie Slices.AssemblyInfoInputs.cache
+D:\528814\Programming-Challenges\Pie Slices\obj\Debug\net6.0\Pie Slices.AssemblyInfo.cs
+D:\528814\Programming-Challenges\Pie Slices\obj\Debug\net6.0\Pie Slices.csproj.CoreCompileInputs.cache
+D:\528814\Programming-Challenges\Pie Slices\obj\Debug\net6.0\Pie Slices.dll
+D:\528814\Programming-Challenges\Pie Slices\obj\Debug\net6.0\refint\Pie Slices.dll
+D:\528814\Programming-Challenges\Pie Slices\obj\Debug\net6.0\Pie Slices.pdb
+D:\528814\Programming-Challenges\Pie Slices\obj\Debug\net6.0\Pie Slices.genruntimeconfig.cache
+D:\528814\Programming-Challenges\Pie Slices\obj\Debug\net6.0\ref\Pie Slices.dll
