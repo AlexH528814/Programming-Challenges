@@ -1,0 +1,15 @@
+D:\528814\Programming-Challenges\DateTimeandStopwatch\bin\Debug\net6.0\DateTimeandStopwatch.exe
+D:\528814\Programming-Challenges\DateTimeandStopwatch\bin\Debug\net6.0\DateTimeandStopwatch.deps.json
+D:\528814\Programming-Challenges\DateTimeandStopwatch\bin\Debug\net6.0\DateTimeandStopwatch.runtimeconfig.json
+D:\528814\Programming-Challenges\DateTimeandStopwatch\bin\Debug\net6.0\DateTimeandStopwatch.dll
+D:\528814\Programming-Challenges\DateTimeandStopwatch\bin\Debug\net6.0\DateTimeandStopwatch.pdb
+D:\528814\Programming-Challenges\DateTimeandStopwatch\obj\Debug\net6.0\DateTimeandStopwatch.csproj.AssemblyReference.cache
+D:\528814\Programming-Challenges\DateTimeandStopwatch\obj\Debug\net6.0\DateTimeandStopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\528814\Programming-Challenges\DateTimeandStopwatch\obj\Debug\net6.0\DateTimeandStopwatch.AssemblyInfoInputs.cache
+D:\528814\Programming-Challenges\DateTimeandStopwatch\obj\Debug\net6.0\DateTimeandStopwatch.AssemblyInfo.cs
+D:\528814\Programming-Challenges\DateTimeandStopwatch\obj\Debug\net6.0\DateTimeandStopwatch.csproj.CoreCompileInputs.cache
+D:\528814\Programming-Challenges\DateTimeandStopwatch\obj\Debug\net6.0\DateTimeandStopwatch.dll
+D:\528814\Programming-Challenges\DateTimeandStopwatch\obj\Debug\net6.0\refint\DateTimeandStopwatch.dll
+D:\528814\Programming-Challenges\DateTimeandStopwatch\obj\Debug\net6.0\DateTimeandStopwatch.pdb
+D:\528814\Programming-Challenges\DateTimeandStopwatch\obj\Debug\net6.0\DateTimeandStopwatch.genruntimeconfig.cache
+D:\528814\Programming-Challenges\DateTimeandStopwatch\obj\Debug\net6.0\ref\DateTimeandStopwatch.dll
