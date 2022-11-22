@@ -1,0 +1,15 @@
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\bin\Debug\net6.0\MorseCode and Pneumonic Alphabet.exe
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\bin\Debug\net6.0\MorseCode and Pneumonic Alphabet.deps.json
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\bin\Debug\net6.0\MorseCode and Pneumonic Alphabet.runtimeconfig.json
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\bin\Debug\net6.0\MorseCode and Pneumonic Alphabet.dll
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\bin\Debug\net6.0\MorseCode and Pneumonic Alphabet.pdb
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\obj\Debug\net6.0\MorseCode and Pneumonic Alphabet.csproj.AssemblyReference.cache
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\obj\Debug\net6.0\MorseCode and Pneumonic Alphabet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\obj\Debug\net6.0\MorseCode and Pneumonic Alphabet.AssemblyInfoInputs.cache
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\obj\Debug\net6.0\MorseCode and Pneumonic Alphabet.AssemblyInfo.cs
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\obj\Debug\net6.0\MorseCode and Pneumonic Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\obj\Debug\net6.0\MorseCode and Pneumonic Alphabet.dll
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\obj\Debug\net6.0\refint\MorseCode and Pneumonic Alphabet.dll
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\obj\Debug\net6.0\MorseCode and Pneumonic Alphabet.pdb
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\obj\Debug\net6.0\MorseCode and Pneumonic Alphabet.genruntimeconfig.cache
+C:\Users\alexh\OneDrive\Desktop\Repos\repo2 github desktop\Programming-Challenges\MorseCode and Pneumonic Alphabet\obj\Debug\net6.0\ref\MorseCode and Pneumonic Alphabet.dll
