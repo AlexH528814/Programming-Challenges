@@ -1,0 +1,15 @@
+D:\528814\Programming-Challenges\Enumerations\bin\Debug\net6.0\Enumerations.exe
+D:\528814\Programming-Challenges\Enumerations\bin\Debug\net6.0\Enumerations.deps.json
+D:\528814\Programming-Challenges\Enumerations\bin\Debug\net6.0\Enumerations.runtimeconfig.json
+D:\528814\Programming-Challenges\Enumerations\bin\Debug\net6.0\Enumerations.dll
+D:\528814\Programming-Challenges\Enumerations\bin\Debug\net6.0\Enumerations.pdb
+D:\528814\Programming-Challenges\Enumerations\obj\Debug\net6.0\Enumerations.csproj.AssemblyReference.cache
+D:\528814\Programming-Challenges\Enumerations\obj\Debug\net6.0\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+D:\528814\Programming-Challenges\Enumerations\obj\Debug\net6.0\Enumerations.AssemblyInfoInputs.cache
+D:\528814\Programming-Challenges\Enumerations\obj\Debug\net6.0\Enumerations.AssemblyInfo.cs
+D:\528814\Programming-Challenges\Enumerations\obj\Debug\net6.0\Enumerations.csproj.CoreCompileInputs.cache
+D:\528814\Programming-Challenges\Enumerations\obj\Debug\net6.0\Enumerations.dll
+D:\528814\Programming-Challenges\Enumerations\obj\Debug\net6.0\refint\Enumerations.dll
+D:\528814\Programming-Challenges\Enumerations\obj\Debug\net6.0\Enumerations.pdb
+D:\528814\Programming-Challenges\Enumerations\obj\Debug\net6.0\Enumerations.genruntimeconfig.cache
+D:\528814\Programming-Challenges\Enumerations\obj\Debug\net6.0\ref\Enumerations.dll

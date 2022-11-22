@@ -9,46 +9,18 @@ public class Program
         car.speed = 80f;
         bike.speed = 60f;
 
-        bike.isNeutral = true;
-        car.Move();
+        car.isNeutral = false;
+        bike.isNeutral = false;
+
+        if (car.isNeutral == false)
+            car.Move();
+
         bike.Move();
 
 
     }
 }
 
-public class Vehicle
-{
-    public float speed;
 
-    public bool isNeutral;
 
-    public void Move()
-    {
-        if (isNeutral)
-            return;
-        
 
-        Console.WriteLine("Vehicle is moving");
-    }
-}
-
-public class Car : Vehicle
-{
-    public int numberOfSeats;
-
-    public void StoreItemsInBoot()
-    {
-        Console.WriteLine("items stored");
-    }
-}
-
-public class Motorbike : Vehicle
-{
-    public bool hasSideCarridge;
-
-    public void Wheely()
-    {
-        Console.WriteLine("this is not safe at all...");
-    }
-}
