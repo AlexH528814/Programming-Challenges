@@ -7,6 +7,7 @@ public class MusicSettings : MonoBehaviour
 
     [SerializeField]
     public string bestSongEver;
+    private int counter = 1;
 
     // Start is called before the first frame update
     void Start()
@@ -17,7 +18,13 @@ public class MusicSettings : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Debug.Log("This is called every frame");
+        for (int i = 0; i < counter; i++)
+        {
+            counter = 0;
+            Debug.Log("This is called every frame");
+            Debug.Log("It isnt doing so now because i made it not do so");
+        }
+        
     }
 
     
