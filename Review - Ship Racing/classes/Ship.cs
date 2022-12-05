@@ -11,4 +11,14 @@ public class Ship
             currentpos += movementspeed;
             Console.WriteLine($"Ship is {currentpos} distance from start");
     }
+
+    public bool HasWon()
+    {
+        if (this.currentpos >= 100)
+        {
+            return true;
+        }
+
+        return false;
+    }
 }
