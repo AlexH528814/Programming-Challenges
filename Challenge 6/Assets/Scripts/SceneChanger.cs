@@ -10,6 +10,9 @@ public class SceneChanger : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        
+
         if (Input.GetKeyDown(KeyCode.Keypad0))
             SceneManager.LoadScene("SampleScene");
         if (Input.GetKeyDown(KeyCode.Keypad1))
