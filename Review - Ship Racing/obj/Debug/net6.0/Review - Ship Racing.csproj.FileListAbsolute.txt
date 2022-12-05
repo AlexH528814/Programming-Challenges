@@ -1,0 +1,15 @@
+D:\528814\Programming-Challenges\Review - Ship Racing\bin\Debug\net6.0\Review - Ship Racing.exe
+D:\528814\Programming-Challenges\Review - Ship Racing\bin\Debug\net6.0\Review - Ship Racing.deps.json
+D:\528814\Programming-Challenges\Review - Ship Racing\bin\Debug\net6.0\Review - Ship Racing.runtimeconfig.json
+D:\528814\Programming-Challenges\Review - Ship Racing\bin\Debug\net6.0\Review - Ship Racing.dll
+D:\528814\Programming-Challenges\Review - Ship Racing\bin\Debug\net6.0\Review - Ship Racing.pdb
+D:\528814\Programming-Challenges\Review - Ship Racing\obj\Debug\net6.0\Review - Ship Racing.csproj.AssemblyReference.cache
+D:\528814\Programming-Challenges\Review - Ship Racing\obj\Debug\net6.0\Review - Ship Racing.GeneratedMSBuildEditorConfig.editorconfig
+D:\528814\Programming-Challenges\Review - Ship Racing\obj\Debug\net6.0\Review - Ship Racing.AssemblyInfoInputs.cache
+D:\528814\Programming-Challenges\Review - Ship Racing\obj\Debug\net6.0\Review - Ship Racing.AssemblyInfo.cs
+D:\528814\Programming-Challenges\Review - Ship Racing\obj\Debug\net6.0\Review - Ship Racing.csproj.CoreCompileInputs.cache
+D:\528814\Programming-Challenges\Review - Ship Racing\obj\Debug\net6.0\Review - Ship Racing.dll
+D:\528814\Programming-Challenges\Review - Ship Racing\obj\Debug\net6.0\refint\Review - Ship Racing.dll
+D:\528814\Programming-Challenges\Review - Ship Racing\obj\Debug\net6.0\Review - Ship Racing.pdb
+D:\528814\Programming-Challenges\Review - Ship Racing\obj\Debug\net6.0\Review - Ship Racing.genruntimeconfig.cache
+D:\528814\Programming-Challenges\Review - Ship Racing\obj\Debug\net6.0\ref\Review - Ship Racing.dll
