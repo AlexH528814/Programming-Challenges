@@ -1,0 +1,15 @@
+D:\528814\Programming-Challenges\File-editing\bin\Debug\net6.0\File-editing.exe
+D:\528814\Programming-Challenges\File-editing\bin\Debug\net6.0\File-editing.deps.json
+D:\528814\Programming-Challenges\File-editing\bin\Debug\net6.0\File-editing.runtimeconfig.json
+D:\528814\Programming-Challenges\File-editing\bin\Debug\net6.0\File-editing.dll
+D:\528814\Programming-Challenges\File-editing\bin\Debug\net6.0\File-editing.pdb
+D:\528814\Programming-Challenges\File-editing\obj\Debug\net6.0\File-editing.csproj.AssemblyReference.cache
+D:\528814\Programming-Challenges\File-editing\obj\Debug\net6.0\File-editing.GeneratedMSBuildEditorConfig.editorconfig
+D:\528814\Programming-Challenges\File-editing\obj\Debug\net6.0\File-editing.AssemblyInfoInputs.cache
+D:\528814\Programming-Challenges\File-editing\obj\Debug\net6.0\File-editing.AssemblyInfo.cs
+D:\528814\Programming-Challenges\File-editing\obj\Debug\net6.0\File-editing.csproj.CoreCompileInputs.cache
+D:\528814\Programming-Challenges\File-editing\obj\Debug\net6.0\File-editing.dll
+D:\528814\Programming-Challenges\File-editing\obj\Debug\net6.0\refint\File-editing.dll
+D:\528814\Programming-Challenges\File-editing\obj\Debug\net6.0\File-editing.pdb
+D:\528814\Programming-Challenges\File-editing\obj\Debug\net6.0\File-editing.genruntimeconfig.cache
+D:\528814\Programming-Challenges\File-editing\obj\Debug\net6.0\ref\File-editing.dll

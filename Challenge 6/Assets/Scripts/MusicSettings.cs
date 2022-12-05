@@ -22,7 +22,9 @@ public class MusicSettings : MonoBehaviour
         {
             counter = 0;
             Debug.Log("This is called every frame");
-            Debug.Log("It isnt doing so now because i made it not do so");
+
+            if (counter == 0)
+                Debug.Log("It isnt doing so now because i made it not do so");
         }
         
     }

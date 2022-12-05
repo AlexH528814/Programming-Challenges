@@ -1,0 +1,15 @@
+D:\528814\Programming-Challenges\CalculatorErrors\obj\Debug\net6.0\CalculatorErrors.csproj.AssemblyReference.cache
+D:\528814\Programming-Challenges\CalculatorErrors\obj\Debug\net6.0\CalculatorErrors.GeneratedMSBuildEditorConfig.editorconfig
+D:\528814\Programming-Challenges\CalculatorErrors\obj\Debug\net6.0\CalculatorErrors.AssemblyInfoInputs.cache
+D:\528814\Programming-Challenges\CalculatorErrors\obj\Debug\net6.0\CalculatorErrors.AssemblyInfo.cs
+D:\528814\Programming-Challenges\CalculatorErrors\obj\Debug\net6.0\CalculatorErrors.csproj.CoreCompileInputs.cache
+D:\528814\Programming-Challenges\CalculatorErrors\bin\Debug\net6.0\CalculatorErrors.exe
+D:\528814\Programming-Challenges\CalculatorErrors\bin\Debug\net6.0\CalculatorErrors.deps.json
+D:\528814\Programming-Challenges\CalculatorErrors\bin\Debug\net6.0\CalculatorErrors.runtimeconfig.json
+D:\528814\Programming-Challenges\CalculatorErrors\bin\Debug\net6.0\CalculatorErrors.dll
+D:\528814\Programming-Challenges\CalculatorErrors\bin\Debug\net6.0\CalculatorErrors.pdb
+D:\528814\Programming-Challenges\CalculatorErrors\obj\Debug\net6.0\CalculatorErrors.dll
+D:\528814\Programming-Challenges\CalculatorErrors\obj\Debug\net6.0\refint\CalculatorErrors.dll
+D:\528814\Programming-Challenges\CalculatorErrors\obj\Debug\net6.0\CalculatorErrors.pdb
+D:\528814\Programming-Challenges\CalculatorErrors\obj\Debug\net6.0\CalculatorErrors.genruntimeconfig.cache
+D:\528814\Programming-Challenges\CalculatorErrors\obj\Debug\net6.0\ref\CalculatorErrors.dll
