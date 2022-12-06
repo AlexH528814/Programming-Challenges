@@ -1,0 +1,15 @@
+D:\528814\Programming-Challenges\Golden Ratio\bin\Debug\net6.0\Golden Ratio.exe
+D:\528814\Programming-Challenges\Golden Ratio\bin\Debug\net6.0\Golden Ratio.deps.json
+D:\528814\Programming-Challenges\Golden Ratio\bin\Debug\net6.0\Golden Ratio.runtimeconfig.json
+D:\528814\Programming-Challenges\Golden Ratio\bin\Debug\net6.0\Golden Ratio.dll
+D:\528814\Programming-Challenges\Golden Ratio\bin\Debug\net6.0\Golden Ratio.pdb
+D:\528814\Programming-Challenges\Golden Ratio\obj\Debug\net6.0\Golden Ratio.csproj.AssemblyReference.cache
+D:\528814\Programming-Challenges\Golden Ratio\obj\Debug\net6.0\Golden Ratio.GeneratedMSBuildEditorConfig.editorconfig
+D:\528814\Programming-Challenges\Golden Ratio\obj\Debug\net6.0\Golden Ratio.AssemblyInfoInputs.cache
+D:\528814\Programming-Challenges\Golden Ratio\obj\Debug\net6.0\Golden Ratio.AssemblyInfo.cs
+D:\528814\Programming-Challenges\Golden Ratio\obj\Debug\net6.0\Golden Ratio.csproj.CoreCompileInputs.cache
+D:\528814\Programming-Challenges\Golden Ratio\obj\Debug\net6.0\Golden Ratio.dll
+D:\528814\Programming-Challenges\Golden Ratio\obj\Debug\net6.0\refint\Golden Ratio.dll
+D:\528814\Programming-Challenges\Golden Ratio\obj\Debug\net6.0\Golden Ratio.pdb
+D:\528814\Programming-Challenges\Golden Ratio\obj\Debug\net6.0\Golden Ratio.genruntimeconfig.cache
+D:\528814\Programming-Challenges\Golden Ratio\obj\Debug\net6.0\ref\Golden Ratio.dll
